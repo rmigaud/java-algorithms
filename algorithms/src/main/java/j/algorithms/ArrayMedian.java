@@ -13,9 +13,9 @@ public final class ArrayMedian {
   }
 
   /**
-   * findMedianSortedArrays, Given two sorted arrays nums1 abd nums2, returns
-   * the median of the two sorted arrays.The overall run time complexity should
-   * be O(log (m+n)).
+   * findMedianSortedArrays, Given two sorted arrays 'nums1' and 'nums2',
+   * returns the median of the two sorted arrays.The overall run time complexity
+   * should be O(log (m+n)).
    *
    * @param nums1 first array of ints
    * @param nums2 second array of ints
